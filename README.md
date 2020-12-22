@@ -13,4 +13,4 @@
 | 45   | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | [Java](src/array/JumpGameII.java) | Medium     |
 | 11   | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Java](src/array/ContainerWithMostWater.java) | Medium     |
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](src/array/IncreasingTripletSubsequence.java) | Medium     |
-
+| 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](src/array/LongestConsecutiveSequence.java) | Hard     |
