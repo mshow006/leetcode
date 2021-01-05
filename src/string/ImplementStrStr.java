@@ -12,27 +12,9 @@ public class ImplementStrStr {
         System.out.println(indexOf(value, value.length, str, str.length, 0));
     }
 
-    public int strStr(String haystack, String needle) {
-        if (haystack == null || needle == null || haystack.length() < needle.length()) {
-            return -1;
-        }
-        int h = haystack.length();
-        int n = needle.length();
-        if (h == n && h == 0) return 0;
-        for (int i = 0; i <= h - n; i++) {
-            int j = 0;
-            while (j < n && i < h && haystack.charAt(i) == needle.charAt(j)) {
-                j++;
-                i++;
-            }
-            if (j == n) {
-                return i - n;
-            }
-            i -= j;
-        }
-        return -1;
-    }
 
+
+    // StringLatin1#indexOf()
     public static int indexOf(byte[] value, int valueCount, byte[] str, int strCount, int fromIndex) {
         byte first = str[0];
         int max = (valueCount - strCount);
@@ -51,6 +33,40 @@ public class ImplementStrStr {
                     return i;
                 }
             }
+        }
+        return -1;
+    }
+
+    public int strStr2(String haystack, String needle) {
+        int h = haystack.length(), n = needle.length();
+
+        for (int start = 0; start < h - n + 1; start++) {
+            if(haystack.substring(start, start + n).equals(needle)) {
+                return start;
+            }
+        }
+
+        return -1;
+    }
+
+    // bad
+    public int strStr1(String haystack, String needle) {
+        if (haystack == null || needle == null || haystack.length() < needle.length()) {
+            return -1;
+        }
+        int h = haystack.length();
+        int n = needle.length();
+        if (h == n && h == 0) return 0;
+        for (int i = 0; i <= h - n; i++) {
+            int j = 0;
+            while (j < n && i < h && haystack.charAt(i) == needle.charAt(j)) {
+                j++;
+                i++;
+            }
+            if (j == n) {
+                return i - n;
+            }
+            i -= j;
         }
         return -1;
     }
