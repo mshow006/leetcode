@@ -15,4 +15,6 @@
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](src/array/IncreasingTripletSubsequence.java) | Medium     |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](src/array/LongestConsecutiveSequence.java) | Hard     |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](src/array/FindTheDuplicateNumber.java) | Medium     |
-| 28  | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](src/string/ImplementStrStr.java) | Easy     |
+| 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](src/string/ImplementStrStr.java) | Easy     |
+| 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](src/string/FirstUniqueCharacterInAString.java) | Easy     |
+| 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/RansomNote.java) | Easy     |
