@@ -20,3 +20,4 @@
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/RansomNote.java) | Easy     |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/ReverseString.java) | Easy     |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](src/string/ReverseWordsInAString.java) | Medium     |
+| 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](src/string/IsomorphicStrings.java) | Easy     |
