@@ -15,9 +15,18 @@
 | 334  | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Java](src/array/IncreasingTripletSubsequence.java) | Medium     |
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](src/array/LongestConsecutiveSequence.java) | Hard     |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](src/array/FindTheDuplicateNumber.java) | Medium     |
+
+## String
+
+| #    | Title                                                        | Solution                               | Difficulty |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](src/string/ImplementStrStr.java) | Easy     |
 | 387  | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Java](src/string/FirstUniqueCharacterInAString.java) | Easy     |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](src/string/RansomNote.java) | Easy     |
 | 344  | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Java](src/string/ReverseString.java) | Easy     |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](src/string/ReverseWordsInAString.java) | Medium     |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](src/string/IsomorphicStrings.java) | Easy     |
+
+## List
+
+| #    | Title                                                        | Solution                               | Difficulty |
+| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](src/list/AddTwoNumbers.java) | Medium     |
