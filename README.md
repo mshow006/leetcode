@@ -1,4 +1,4 @@
-## Array
+## Array (数组)
 
 | #    | Title                                                        | Solution                               | Difficulty |
 | ---- | ------------------------------------------------------------ | -------------------------------------- | ---------- |
@@ -16,7 +16,7 @@
 | 128  | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Java](src/array/LongestConsecutiveSequence.java) | Hard     |
 | 287  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Java](src/array/FindTheDuplicateNumber.java) | Medium     |
 
-## String
+## String (字符串)
 
 | #    | Title                                                        | Solution                               | Difficulty |
 | 28   | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Java](src/string/ImplementStrStr.java) | Easy     |
@@ -26,7 +26,7 @@
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](src/string/ReverseWordsInAString.java) | Medium     |
 | 205  | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Java](src/string/IsomorphicStrings.java) | Easy     |
 
-## List
+## List (链表)
 
 | #    | Title                                                        | Solution                               | Difficulty |
-| 2   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](src/list/AddTwoNumbers.java) | Medium     |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](src/list/AddTwoNumbers.java) | Medium     |
