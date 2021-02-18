@@ -20,7 +20,6 @@ public class AddTwoNumbersII {
 
         ListNode dummyHead = new ListNode(0);
         int carry = 0;
-
         while (!s1.isEmpty() || !s2.isEmpty() || carry != 0) {
             int x = s1.isEmpty() ? 0 : s1.pop();
             int y = s2.isEmpty() ? 0 : s2.pop();
@@ -33,6 +32,4 @@ public class AddTwoNumbersII {
 
         return dummyHead.next;
     }
-
-    
 }
