@@ -1,3 +1,5 @@
+[LeetCode 主页](https://leetcode.com/yingming006/)
+
 ## Array (数组)
 
 | #    | Title                                                        | Solution                               | Difficulty | Recommend | 
