@@ -31,5 +31,5 @@
  |
 | #    | Title                                                        | Solution                               | Difficulty | Recommend |
 | ---- | ------------------------------------------------------------ | -------------------------------------- | ---------- | --------- |
-| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](src/list/AddTwoNumbers.java) | Medium     | [x] |
-| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](src/list/AddTwoNumbersII.java) | Medium     | [x] |
+| 2    | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](src/list/AddTwoNumbers.java) | Medium     | ※ |
+| 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](src/list/AddTwoNumbersII.java) | Medium     | ※ |
