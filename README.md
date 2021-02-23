@@ -37,3 +37,4 @@
 | 445  | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Java](src/list/AddTwoNumbersII.java) | Medium     | ※ |
 | 24   | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](src/list/SwapNodesInPairs.java) | Medium     | ※ |
 | 206  | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Java](src/list/ReverseLinkedList.java) | Easy     | ※ |
+| 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](src/list/LinkedListCycle.java) | Easy     | ※ |
