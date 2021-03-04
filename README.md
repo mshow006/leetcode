@@ -40,3 +40,4 @@
 | 141  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](src/list/LinkedListCycle.java) | Easy     | ※ |
 | 142  | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Java](src/list/LinkedListCycleII.java) | Medium     | ※ |
 | 23   | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](src/list/MergeKSortedLists.java) | Hard     | ※ |
+| 147  | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Java](src/list/InsertionSortList.java) | Medium     | ※ |
